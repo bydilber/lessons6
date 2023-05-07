@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: slategrey;
+}
+header, footer{
+    margin: 8px 5px;
+    font-size: large;
+}
+main{
+    display: flex;
+    border: 4px solid rgb(244, 244, 80);
+    margin: 4px 4px;
+    font-size: large;
+}
+main > #a{
+    width: 20%;
+    height: 150px;
+    background-color: rgb(252, 176, 36);
+    padding: 5px 5px;
+    border: 2px solid black;
+}
+main > #b{
+    width: 20%;
+    height: 250px;
+    background-color: rgb(252, 176, 36);
+    padding: 5px 5px;
+    border: 2px solid black;
+
+}
+main > #c{
+    width: 20%;
+    height: 200px;
+    background-color: rgb(252, 176, 36);
+    padding: 5px 5px;
+    border: 2px solid black;
+
+}main > #d{
+    width: 20%;
+    height: 200px;
+    background-color: rgb(252, 176, 36);
+    padding: 5px 5px;
+    border: 2px solid black;
+
+}

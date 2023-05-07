@@ -1,0 +1,100 @@
+*{
+    margin: 20px 25px 20px 35px;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    position: relative;
+} */
+
+header div{
+    width: 1040px;
+    height: 60px;
+    text-align: center;
+    font-size: larger;
+    color: aliceblue;
+    background-color: rgb(46, 135, 230);
+    padding-top: 15px;
+}
+main{
+    position: relative;
+    display: flex;
+}
+#div1{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    font-size: larger;
+    color: aliceblue;
+    background-color: rgb(189, 146, 229);
+    padding-top: 15px;
+    
+}
+#div2{
+    position: absolute;
+    width: 605px;
+    left: 435px;
+    height: 350px;
+    text-align: center;
+    font-size: larger;
+    color: aliceblue;
+    padding-top: 15px;
+    background-color: rgb(231, 197, 43);
+}
+#div3{
+    position: absolute;
+    width: 400px;
+    height: 350px;
+    top: 220px;
+    text-align: center;
+    font-size: larger;
+    color: aliceblue;
+    padding-top: 15px;
+    background-color: rgb(107, 176, 47);
+}
+#div4{
+    position: absolute;
+    width: 605px;
+    left: 435px;
+    top: 370px;
+    height: 200px;
+    text-align: center;
+    font-size: larger;
+    color: aliceblue;
+    padding-top: 15px;
+    background-color: rgb(70, 71, 70);
+}
+#div5{
+    position: absolute;
+    top: 590px;
+    width: 700px;
+    height: 140px;
+    text-align: center;
+    font-size: larger;
+    color: aliceblue;
+    padding-top: 15px;
+    background-color: rgb(19, 146, 70);
+}
+#div6{
+    position: absolute;
+    width: 305px;
+    height: 140px;
+    left: 735px;
+    top: 590px;
+    text-align: center;
+    font-size: larger;
+    color: aliceblue;
+    padding-top: 15px;
+    background-color: palevioletred;
+}
+footer div{
+    position: absolute;
+    width: 1040px;
+    height: 60px;
+    text-align: center;
+    font-size: larger;
+    color: aliceblue;
+    background-color: rgb(217, 134, 39);
+    padding-top: 15px;  
+    top: 870px;
+}

@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: auto;
+    background-color: rgb(10, 167, 228);
+}
+main{
+    display: flex;
+    align-items: center;
+}
+main > #id1{
+    width: 20%;
+    height: 400px;
+    background-color: rgb(160, 158, 158);
+}
+main > #id2{
+    width: 60%;
+    height: 400px;
+    background-color: rgb(252, 171, 20);
+}
+main > #id3{
+    width: 20%;
+    height: 400px;
+    background-color: rgb(112, 111, 111);
+}
+footer{
+    width: 100%;
+    height: auto;
+    background-color: rgb(10, 228, 65);
+}

@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(125, 133, 141);
+}
+main{
+    display: flex;
+    background-color: rgb(253, 253, 90);
+    margin: 4px 4px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+main> #sol{
+    width: 55%;
+
+}
+main > #sol >b{
+    font-size: x-large;
+}
+b{
+    font-size: x-large;    
+    /* padding-top: 15px;
+    padding-bottom: 15px; */
+}
+div{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
